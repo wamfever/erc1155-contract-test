@@ -1,4 +1,6 @@
-# In order to deploy the smart contract follow the next steps
+# Keyko ERC1155
+
+In order to deploy the smart contract, follow the next steps:
 
 ## Setup:
 ```bash
